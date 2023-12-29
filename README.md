@@ -7,7 +7,7 @@ A passionate junior web developer with a huge love for JavaScript, TypeScript, C
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=robin0787&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=robin0787&theme=react&hide_border=true&background=0E151F&stroke=0E151F&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 ## :mailbox: Reach me out
@@ -17,27 +17,6 @@ A passionate junior web developer with a huge love for JavaScript, TypeScript, C
 [<p align="center"><img height="50" width="165" src="./images/icons/Facebook.png">](https://www.facebook.com/robinhossen636)[<img height="50" width="165" src="./images/icons/Twitter.png"> </p>](https://twitter.com/robinhossen636)
 
 <br />
-
-<!-- ## :computer: Technologies that I know
-
-<br>
-<p align="center">
-<img src="./images/icons/HTML.png"/>
-<img src="./images/icons/css.png"/>
-<img src="./images/icons/JavaScript.png"/>
-</p>
-<p align="center">
-<img src="./images/icons/react.png"/>
-<img src="./images/icons/redux.png"/>
-<img src="./images/icons/tailwind.png"/>
-<img src="./images/icons/Bootsrap.png"/>
-<img src="./images/icons/firebase.png"/>
-</p>
-<p align="center">
-<img src="./images/icons/node.png"/>
-<img src="./images/icons/express.png"/>
-<img src="./images/icons/mongo.png"/>
-</p><br/> -->
 
 ## 💻 Technologies & Tools
 
