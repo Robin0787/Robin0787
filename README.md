@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 There! <br /> I'm Robin </h1>
-[<p align="center">[My Portfolio]</p>](https://robin-web-dev.netlify.app/)
+[<p align="center">My Portfolio</p>](https://robin-web-dev.netlify.app/)
 <h3 align="center">
 A passionate junior web developer with a huge love for JavaScript, TypeScript, CSS, Tailwind CSS, React, Node.js, Express.js, MongoDB</h3>
 <br />
