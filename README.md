@@ -3,9 +3,6 @@
 <h3 align="center">
 A passionate junior web developer with a huge love for JavaScript, TypeScript, CSS, Tailwind CSS, React, Node.js, Express.js, MongoDB</h3>
 <br />
-
-[<p align="center">Portfiolo</p>](https://robin-web-dev.netlify.app/)
-<br />
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -60,7 +57,7 @@ A passionate junior web developer with a huge love for JavaScript, TypeScript, C
 
 ## :eyes: Current overview
 
-### 🌱 I’m exploring - Next.js, Redux, Express and Mongoose.
+### 🌱 I’m exploring - Next.js, Redux, Express, and Mongoose.
 
 ### 👯 I’m looking - For a job based on my skills.
 
