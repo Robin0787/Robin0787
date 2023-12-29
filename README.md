@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate Junior web developer with a huge love for JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robin0787&label=Profile%20views&color=0e75b6&style=flat" alt="robin0787" /> </p>
 
