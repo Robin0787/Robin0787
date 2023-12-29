@@ -20,7 +20,7 @@ A passionate junior web developer with a huge love for JavaScript, TypeScript, C
 
 ## 💻 Technologies & Tools
 
-### Frontend Development
+### 🚀 Frontend Development
 
 <p align="center">
   <img src="./images/icons/HTML.png" />
