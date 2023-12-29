@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
-<div align="center">[repo-url]</div>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robin0787&label=Profile%20views&color=0e75b6&style=flat" alt="robin0787" /> </p>
@@ -29,7 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robin0787&show_icons=true&locale=en&layout=compact" alt="robin0787" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robin0787&show_icons=true&locale=en" alt="robin0787" /></p>
-
-
-
-[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
