@@ -1,5 +1,5 @@
 <a target="_blank" href="https://www.facebook.com/robinhossen636/">
-<img height="550" width="100%" src="./images/Dev Card/dev_card.png" />
+<img height="550" width="100%" src="./images/Dev Card/cover.png" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
