@@ -5,7 +5,7 @@ A passionate junior web developer with a huge love for JavaScript, TypeScript, C
 <br /> -->
 
 <a href="https://www.facebook.com/robinhossen636/">
-<img src="./images/Dev Card/1.png" />
+<img height="300" src="./images/Dev Card/3.png" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
