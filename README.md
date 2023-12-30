@@ -3,10 +3,11 @@
 <h3 align="center">
 A passionate junior web developer with a huge love for JavaScript, TypeScript, CSS, Tailwind CSS, React, Node.js, Express.js, MongoDB</h3>
 <br /> -->
-
+<p align="center">
 <a href="https://www.facebook.com/robinhossen636/">
-<img height="550" width="100%" src="./images/Dev Card/2.png" />
+<img height="550" width="100%" src="./images/Dev Card/4.png" />
 </a>
+</p>
 
 ## :chart_with_upwards_trend: Current Stats
 
