@@ -56,7 +56,7 @@
 
 ## :eyes: Current overview
 
-### 🌱 I’m exploring - Next.js, Redux, Express, and Mongoose.
+### 🌱 I’m exploring - Redux, Express, and Mongoose.
 
 ### 👯 I’m looking - For a job based on my skills.
 
