@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-    <img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Robin0787&show_icons=true&count_private=true&theme=react&hide_border=true&stroke=0E151F&layout=compact" />&nbsp;&nbsp;
-    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin0787&layout=compact&show_icons=true&count_private=true&theme=react&hide_border=true&background=0E151F&stroke=0E151F&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Robin0787&show_icons=true&count_private=true&theme=react&hide_border=true&stroke=0E151F&layout=compact" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin0787&layout=compact&show_icons=true&count_private=true&theme=react&hide_border=true&background=0E151F&stroke=0E151F&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />&nbsp;&nbsp;
 </p>
 
 ## :mailbox: Reach me out
