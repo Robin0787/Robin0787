@@ -23,36 +23,24 @@
 
 ### 🚀 Frontend Development
 
-<p align="center">
-  <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/HTML.png" />
-  <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/css.png" />
-  <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/Bootsrap.png" />
-  <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/JavaScript.png" height="55"/>
-  <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/ts.png" height="55"/>
-  <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/react.png" />
-  <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/redux.png" />
-  <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/tailwind.png" />
-</p>
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,firebase,redux)](https://robin-web-dev.netlify.app)
 
 ### ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/node.png" />
-  <img height="60" src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/express.png" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 📂 Database
 
 <p align="center">
-  <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/mongo.png" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mongodb"/>
 </p>
 
 ## 🔧 Tools & Platforms
 
 <p align="center">
-  <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/firebase.png" height="55"/>
-  <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/postman.png" height="55"/>
-  <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/git.png" height="55" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vite"/>
 </p>
 
 ## :eyes: Current overview
