@@ -45,7 +45,7 @@
 ## 🔧 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,git,github,vite"/>
+  <img src="https://skillicons.dev/icons?i=postman,git,github,netlify"/>
 </p>
 
 ## :eyes: Current overview
