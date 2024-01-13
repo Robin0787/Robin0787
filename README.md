@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=0&color=00F1FF&center=true&vCenter=true&multiline=false&random=false&repeat=false&width=1000&height=100&lines=Hey+There!+I+am+Robin)](https://robin-web-dev.netlify.app)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF1CF7&center=true&vCenter=true&random=false&width=1000&lines=Full-stack+web+developer;Always+learning+new+things)](https://robin-web-dev.netlify.app/)
@@ -6,13 +5,13 @@
 <p align="center">
 
  <a href="#" target="_blank">
-     <img height="50" width="165" src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/Linkedin.png" />
+     <img src="./images/icons/gmail.png" />
  </a>
  <a href="https://facebook.com/robinhossen636" target="_blank">
-     <img height="50" width="165" src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/Facebook.png" />
+     <img src="./images/icons/facebook_icon.png" />
  </a>
  <a href="https://twitter.com/robinhossen636" target="_blank">
-     <img height="50" width="165" src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/Twitter.png" />
+     <img src="/images/icons/twitter_icon.png" />
  </a>
   
 </p>
@@ -20,7 +19,6 @@
 <a target="_blank" href="https://www.facebook.com/robinhossen636/">
 <img height="550" width="100%" src="./images/Dev Card/card.png" />
 </a>
-
 
 ## :chart_with_upwards_trend: Current Stats
 
