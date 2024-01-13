@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="https://robin-web-dev.netlify.app" target="_blank">
-     <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/web.png" />
+     <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/portfolio.png" />
  </a>
 </p>
 
