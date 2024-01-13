@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=04D0FF&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hey+There!+I+am+Robin;A+passionate+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=04D0FF&center=true&vCenter=true&multiline=true&random=false&width=1200&height=100&lines=Hey+There!+I+am+Robin;A+passionate+web+developer)](https://git.io/typing-svg)
 
 
 <a target="_blank" href="https://www.facebook.com/robinhossen636/">
