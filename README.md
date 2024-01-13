@@ -7,7 +7,7 @@
  <a href="#" target="_blank">
      <img src="./images/icons/gmail.png" />
  </a>
- <a href="https://facebook.com/robinhossen636" target="_blank">
+ <a href="https://facebook.com/robinhossen636" target="_blank" margin="10px">
      <img src="./images/icons/facebook_icon.png" />
  </a>
  <a href="https://twitter.com/robinhossen636" target="_blank">
