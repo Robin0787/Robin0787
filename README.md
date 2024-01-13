@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-
  <a href="#" target="_blank">
      <img height="50" width="165" src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/Linkedin.png" />
  </a>
@@ -22,9 +21,9 @@
   
 </p>
 
-<a target="_blank" href="https://www.facebook.com/robinhossen636/">
+<!-- <a target="_blank" href="https://www.facebook.com/robinhossen636/">
 <img height="550" width="100%" src="./images/Dev Card/card.png" />
-</a>
+</a> -->
 
 ## :chart_with_upwards_trend: Current Stats
 
