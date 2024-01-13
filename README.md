@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=04D0FF&center=true&vCenter=true&multiline=true&border=true&repeat=false&random=false&width=1000&height=80&lines=Hey+There!+I+am+Robin)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1CF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&lines=A+full-stack+web+developer)](https://git.io/typing-svg)
 
 <a target="_blank" href="https://www.facebook.com/robinhossen636/">
 <img height="550" width="100%" src="./images/Dev Card/card.png" />
 </a>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=04D0FF&center=true&vCenter=true&multiline=true&border=true&repeat=false&random=false&width=1000&height=80&lines=Hey+There!+I+am+Robin)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1CF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&lines=A+full-stack+web+developer)](https://git.io/typing-svg)
 
 ## :chart_with_upwards_trend: Current Stats
 
