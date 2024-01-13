@@ -4,6 +4,7 @@
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=00F1FF&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Hey+There!+I+am+Robin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=FF1CF7&center=true&vCenter=true&random=false&width=1000&lines=Full-stack+web+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 ## :chart_with_upwards_trend: Current Stats
 
