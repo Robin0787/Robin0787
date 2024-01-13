@@ -5,13 +5,13 @@
 <p align="center">
 
  <a href="#" target="_blank">
-     <img src="./images/icons/gmail.png" />
+     <img width="50px" src="./images/icons/gmail.png" />
  </a>
  <a href="https://facebook.com/robinhossen636" target="_blank" margin="10px">
-     <img src="./images/icons/facebook_icon.png" />
+     <img width="50px" src="./images/icons/facebook_icon.png" />
  </a>
  <a href="https://twitter.com/robinhossen636" target="_blank">
-     <img src="/images/icons/twitter_icon.png" />
+     <img width="50px" src="/images/icons/twitter_icon.png" />
  </a>
   
 </p>
