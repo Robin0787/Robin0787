@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=04D0FF&center=true&multiline=true&random=false&width=435&lines=Hey+There!+I+am+Robin+Hossen;A+passionate+web+developer)](https://git.io/typing-svg)
+
+
 <a target="_blank" href="https://www.facebook.com/robinhossen636/">
 <img height="550" width="100%" src="./images/Dev Card/card.png" />
 </a>
