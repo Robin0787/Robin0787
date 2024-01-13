@@ -3,6 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF1CF7&center=true&vCenter=true&random=false&width=1000&lines=Full-stack+web+developer;Always+learning+new+things)](https://robin-web-dev.netlify.app/)
 
 <p align="center">
+ <a href="https://robin-web-dev.netlify.app" target="_blank">
+     <img src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/web.png" />
+ </a>
+</p>
+
+<p align="center">
 
  <a href="#" target="_blank">
      <img height="50" width="165" src="https://github.com/Robin0787/Robin0787/blob/main/images/icons/Linkedin.png" />
