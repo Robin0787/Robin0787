@@ -25,7 +25,7 @@
 <img height="550" width="100%" src="./images/Dev Card/card.png" />
 </a> -->
 
-## :chart_with_upwards_trend: Current Stat
+## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
