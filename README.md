@@ -51,31 +51,29 @@
 
 ### 🚀 Frontend Development
 
-[<p align="center"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,firebase,redux"> </p>](https://robin-web-dev.netlify.app)
+[<p align="center"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,firebase,redux"> </p>](https://robin-web-dev.netlify.app)
 
 ### ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql" />
 </p>
 
 ### 📂 Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
 </p>
 
 ## 🔧 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,docker"/>
 </p>
 
 ## :eyes: Current overview
 
-### 🌱 I’m exploring - Redux, Express, and Mongoose.
-
-### 👯 I’m looking - For a job based on my skills.
+### 🌱 I’m exploring - Prisma, GraphQL, and PostgreSQL.
 
 ### 🤔 I’m trying - To help people learn web development.
 
