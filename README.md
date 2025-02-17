@@ -56,7 +56,7 @@
 ### ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,prisma,graphql" />
 </p>
 
 ### 📂 Database
@@ -73,10 +73,10 @@
 
 ## :eyes: Current overview
 
-### 🌱 I’m exploring - Prisma, GraphQL, and PostgreSQL.
+### 🌱 I’m exploring - Nest.js, and GraphQL.
 
 ### 🤔 I’m trying - To help people learn web development.
 
-### ⚡ Fun fact - I love to teach & help people.
+### ⚡ Fun fact - I love to fix bugs & help people.
 
 <br />
